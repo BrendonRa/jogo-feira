@@ -31,7 +31,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"jogo feira",
   "resources":[
@@ -42,6 +42,7 @@
     {"id":{"name":"sMandiocaEAndando","path":"sprites/sMandiocaEAndando/sMandiocaEAndando.yy",},},
     {"id":{"name":"sMandiocaEParada","path":"sprites/sMandiocaEParada/sMandiocaEParada.yy",},},
     {"id":{"name":"sMandiocaFAndando","path":"sprites/sMandiocaFAndando/sMandiocaFAndando.yy",},},
+    {"id":{"name":"sMandiocaFParada","path":"sprites/sMandiocaFParada/sMandiocaFParada.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

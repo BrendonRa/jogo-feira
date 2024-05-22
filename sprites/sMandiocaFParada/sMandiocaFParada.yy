@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"sMandiocaEAndando",
+  "%Name":"sMandiocaFParada",
   "bboxMode":0,
   "bbox_bottom":85,
   "bbox_left":0,
@@ -12,17 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a67af59f-6556-42b2-b92b-cf4773a26cbb","name":"a67af59f-6556-42b2-b92b-cf4773a26cbb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1c9b7278-b382-4f01-bd4a-d6eccbc91e43","name":"1c9b7278-b382-4f01-bd4a-d6eccbc91e43","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"529f162f-67b1-4fb2-9eff-b45ba1960d20","name":"529f162f-67b1-4fb2-9eff-b45ba1960d20","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":86,
+  "height":90,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"1b1be9ff-c93d-4f3f-accd-6a50b6747b80","blendMode":0,"displayName":"default","isLocked":false,"name":"1b1be9ff-c93d-4f3f-accd-6a50b6747b80","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"932cd396-8883-49a7-a6f1-2e3391f4b91d","blendMode":0,"displayName":"default","isLocked":false,"name":"932cd396-8883-49a7-a6f1-2e3391f4b91d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sMandiocaEAndando",
+  "name":"sMandiocaFParada",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"sMandiocaEAndando",
+    "%Name":"sMandiocaFParada",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -50,7 +49,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -58,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sMandiocaEAndando",
+    "name":"sMandiocaFParada",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -70,11 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a67af59f-6556-42b2-b92b-cf4773a26cbb","path":"sprites/sMandiocaEAndando/sMandiocaEAndando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"77160550-7d9d-4a54-b021-ddd19b8da87e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1c9b7278-b382-4f01-bd4a-d6eccbc91e43","path":"sprites/sMandiocaEAndando/sMandiocaEAndando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3076bee6-fbf5-47f1-8ece-4929d8b9d25f","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"529f162f-67b1-4fb2-9eff-b45ba1960d20","path":"sprites/sMandiocaFParada/sMandiocaFParada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"324c4e6b-4859-48d7-a2a4-129732c4982f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -83,7 +79,7 @@
     "yorigin":0,
   },
   "swatchColours":null,
-  "swfPrecision":2.525,
+  "swfPrecision":0.5,
   "textureGroupId":{
     "name":"Default",
     "path":"texturegroups/Default",
