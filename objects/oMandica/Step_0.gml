@@ -1,19 +1,12 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
+var _left, _right, _down, _up;
 
-if (keyboard_check(vk_up)) {
-	y -= 5;
-}
+_left = keyboard_check(input.left);
+_right = keyboard_check(input.right);
+_down = keyboard_check(input.down);
+_up = keyboard_check(input.up);
 
-if (keyboard_check(vk_down)) {
-	y += 5;
-	sprite_index = sMandiocaFAndando;
-}
+vel_horizontal = (_right - _left) * vel;
+vel_vertical = (_down - _up) * vel;
 
-if (keyboard_check(vk_left)) {
-	x -= 5 image_xscale = -1;
-}
-
-if (keyboard_check(vk_right)) {
-	x += 5 image_xscale = 1;
-}
+x += vel_horizontal;
+y += vel_vertical;
