@@ -39,6 +39,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Ataque","path":"scripts/Ataque/Ataque.yy",},},
     {"id":{"name":"sMandiocaCAndando","path":"sprites/sMandiocaCAndando/sMandiocaCAndando.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"sMandiocaCParada","path":"sprites/sMandiocaCParada/sMandiocaCParada.yy",},},
     {"id":{"name":"sMandiocaDAndando","path":"sprites/sMandiocaDAndando/sMandiocaDAndando.yy",},},
     {"id":{"name":"sMandiocaDParada","path":"sprites/sMandiocaDParada/sMandiocaDParada.yy",},},

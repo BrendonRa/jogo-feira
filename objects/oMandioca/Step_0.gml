@@ -8,8 +8,8 @@ _up = keyboard_check(input.up);
 vel_horizontal = (_right - _left) * vel;
 vel_vertical = (_down - _up) * vel;
 
-if (vel_horizontal > 0) sprite_index = sMandiocaDAndandold;
-if (vel_horizontal < 0) sprite_index = sMandiocaEAndandold;
+if (vel_horizontal > 0) sprite_index = sMandiocaDAndando;
+if (vel_horizontal < 0) sprite_index = sMandiocaEAndando;
 
 x += vel_horizontal;
 y += vel_vertical;
