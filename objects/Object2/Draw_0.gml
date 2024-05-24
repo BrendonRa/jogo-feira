@@ -4,7 +4,7 @@ if (surface_exists(surf)) {
 	// Desenhando na Surface
 	
 	with (oMandioca) {
-		draw_sprite_ext(sprite_index,image_index,x,y + sprite_height,image_xscale,-image_yscale,image_angle,c_white,0.7);
+		draw_sprite_ext(sprite_index,image_index,x,y + sprite_height * 2,image_xscale,-image_yscale,image_angle,c_white,0.7);
 	}
 	
 	surface_reset_target()
