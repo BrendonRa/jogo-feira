@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"sMandiocaFParada",
   "bboxMode":0,
-  "bbox_bottom":19,
+  "bbox_bottom":98,
   "bbox_left":0,
-  "bbox_right":14,
+  "bbox_right":74,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":20,
+  "height":99,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"932cd396-8883-49a7-a6f1-2e3391f4b91d","blendMode":0,"displayName":"default","isLocked":false,"name":"932cd396-8883-49a7-a6f1-2e3391f4b91d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":15,
+  "width":75,
 }

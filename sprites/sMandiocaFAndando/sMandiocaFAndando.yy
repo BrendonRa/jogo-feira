@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"sMandiocaFAndando",
   "bboxMode":0,
-  "bbox_bottom":19,
+  "bbox_bottom":99,
   "bbox_left":0,
-  "bbox_right":14,
+  "bbox_right":74,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -17,7 +17,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":20,
+  "height":100,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"52eb1ade-05a5-4104-92ff-e15d545abd34","blendMode":0,"displayName":"default","isLocked":false,"name":"52eb1ade-05a5-4104-92ff-e15d545abd34","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -90,5 +90,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":15,
+  "width":75,
 }

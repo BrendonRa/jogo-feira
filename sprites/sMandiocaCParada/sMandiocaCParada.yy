@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"sMandiocaCParada",
   "bboxMode":0,
-  "bbox_bottom":18,
+  "bbox_bottom":94,
   "bbox_left":0,
-  "bbox_right":14,
+  "bbox_right":74,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":19,
+  "height":95,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"dbcaf0a3-309a-4964-97ce-3d559f6ebbde","blendMode":0,"displayName":"default","isLocked":false,"name":"dbcaf0a3-309a-4964-97ce-3d559f6ebbde","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":15,
+  "width":75,
 }
